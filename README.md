@@ -1,4 +1,4 @@
-<img width="1898" height="876" alt="home" src="https://github.com/user-attachments/assets/d086b450-038a-428e-9c4b-ec8555e20cb4" /><img width="1898" height="876" alt="home" src="https://github.com/user-attachments/assets/480a1d4c-e92f-42f6-9279-069dc82c4436" /># 🌐 Deepesh Kumar Sahu - Portfolio Website
+# 🌐 Deepesh Kumar Sahu - Portfolio Website
 
 Welcome to my **personal portfolio website**!  
 This portfolio showcases my journey, skills, and projects as I grow in the fields of **Web Development, DevOps, and Cloud Computing**.  
